@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dappner
-- 👀 I’m interested in coding, reading and just general learning.
-- 🌱 I’m currently learning how to use dash, and how to play squash.
-- 💞️ I’m looking to collaborate on nothing so far.
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning how to do web development using Angular.
 - 📫 How to reach me ...
 
 <!---
